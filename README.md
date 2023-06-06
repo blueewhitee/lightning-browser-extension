@@ -27,7 +27,8 @@ The extension can connect to different node implementations and supports custodi
 - [x] WebLN dynamic makeInvoice support
 - [x] Keysend
 - [ ] [Lsat](https://lsat.tech/) support
-- [x] [Battery](https://github.com/blueewhitee/lightning-browser-extension/blob/master/src/extension/content-script/batteries/README.md)
+- [x] [Battery](https://github.com/
+- [ ] lightning-browser-extension/blob/master/src/extension/content-script/batteries/README.md)
 
 ### STATUS: 🚀
 
